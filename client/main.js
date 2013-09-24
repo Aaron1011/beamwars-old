@@ -1,1 +1,1 @@
-console.log("Hello world!");
+require([], function() { console.log("Hello world!") });
