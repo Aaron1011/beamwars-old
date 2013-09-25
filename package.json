@@ -1,0 +1,10 @@
+{
+    "name": "BeamWars",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/Aaron1011/beamwars.git"
+    },
+    "dependencies": {
+        "connect": ">=0"
+    }
+}
